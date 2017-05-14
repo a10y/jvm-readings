@@ -9,6 +9,7 @@ http://blog.jamesdbloom.com/JVMInternals.html
 
 * [Garbage-First Garbage Collection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.6386&rep=rep1&type=pdf)
 * [Understanding Garbage Collection](http://www.slideshare.net/dougqh/understanding-garbage-collection)
+* [Shenandoah](https://dl.acm.org/citation.cfm?id=2972210)
 
 
 ## JIT
