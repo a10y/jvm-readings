@@ -3,7 +3,8 @@
 
 ## JVM Internals
 
-http://blog.jamesdbloom.com/JVMInternals.html
+* http://blog.jamesdbloom.com/JVMInternals.html
+* [JVM for Dummies](https://www.slideshare.net/CharlesNutter/jvm-for-dummies-oscon-2011), good bytecode overview
 
 ## GC
 
