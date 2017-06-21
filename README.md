@@ -42,3 +42,7 @@ http://chriskirk.blogspot.com/2013/09/what-is-java-safepoint.html
 http://www.slideshare.net/RednaxelaFX/green-teajug-hotspotintrinsics02232013
 
 
+## HotSpot Optimizations
+
+* [Automatic Stack Allocation](http://www.stefankrause.net/wp/?p=64)
+* [Urban Performance Methods, revisited](https://www.ibm.com/developerworks/java/library/j-jtp09275/index.html)
