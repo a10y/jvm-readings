@@ -46,3 +46,4 @@ http://www.slideshare.net/RednaxelaFX/green-teajug-hotspotintrinsics02232013
 
 * [Automatic Stack Allocation](http://www.stefankrause.net/wp/?p=64)
 * [Urban Performance Methods, revisited](https://www.ibm.com/developerworks/java/library/j-jtp09275/index.html)
+* [JVM Performance Enhancements](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/performance-enhancements-7.html)
