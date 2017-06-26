@@ -41,6 +41,9 @@ http://chriskirk.blogspot.com/2013/09/what-is-java-safepoint.html
 
 http://www.slideshare.net/RednaxelaFX/green-teajug-hotspotintrinsics02232013
 
+## invokedynamic / JSR 292
+* [invokedynamic 101](http://www.javaworld.com/article/2860079/learn-java/invokedynamic-101.html)
+* [invokedynamic for Mere Mortals](https://www.youtube.com/watch?v=gIffIZnmYBM&t=3322s)
 
 ## HotSpot Optimizations
 
